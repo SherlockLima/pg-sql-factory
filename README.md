@@ -14,21 +14,23 @@ To install the package, use npm:
 
 ```sh
 npm install pg-sql-factory
+```
 
-
-Configuration
+## Configuration
 Create a .env file in the root of your project and configure the following environment variables:
 
+```sh
 DB_HOST=your-postgresql-host
 DB_USER=your-postgresql-user
 DB_PASSWORD=your-postgresql-password
 DB_DATABASE=your-postgresql-database
 DB_PORT=5432
+```
 
-
-Usage
+## Usage
 Here's an example of how to use the pg-sql-factory Package:
 
+```js
 import { initializeDatabase } from './utils/database';
 import { createUsers } from './services/userService';
 
@@ -55,10 +57,10 @@ const main = async () => {
 };
 
 main();
+```
 
-
-Contributing
+## Contributing
 Feel free to open issues or submit pull requests with improvements. Contributions are always welcome!
 
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
