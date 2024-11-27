@@ -1,6 +1,6 @@
 {
   "name": "pg-sql-factory-package",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A secure PG SQL factory for Node.js with TypeScript.",
   "main": "dist/index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SherlockLima/pg-sql-factory-package.git"
+    "url": "git+https://github.com/SherlockLima/pg-sql-factory.git"
   },
   "author": "Jean Lima",
   "license": "MIT",
