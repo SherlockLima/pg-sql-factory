@@ -1,5 +1,5 @@
 {
-  "name": "pg-sql-factory-package",
+  "name": "pg-sql-factory",
   "version": "1.0.3",
   "description": "A secure PG SQL factory for Node.js with TypeScript.",
   "main": "dist/index.js",
