@@ -1,6 +1,6 @@
 {
   "name": "pg-sql-factory",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A secure PG SQL factory for Node.js with TypeScript.",
   "main": "dist/index.js",
   "scripts": {
