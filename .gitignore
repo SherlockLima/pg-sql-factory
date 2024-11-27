@@ -41,3 +41,8 @@ temp/
 
 # TypeScript declaration files
 *.d.ts
+
+#Source
+src/
+__tests__/
+*.md
